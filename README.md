@@ -93,7 +93,7 @@ Ou utilize o servidor embutido do PHP
 
 curl http://localhost/api-produtos/index.php
 
-
+```
 
 🛠 Requisitos
 
@@ -108,6 +108,6 @@ curl http://localhost/api-produtos/index.php
             php -S localhost:8000
         ```
     E acesse no navegador:
-
+```bash
     http://localhost:8000/index.php
-```
+  ```
