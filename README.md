@@ -59,21 +59,20 @@ Caso o método HTTP não seja GET, a API retorna a seguinte resposta:
 
 Com o código HTTP:
 
-```bash 
+
 
 405 Method Not Allowed
 
-```
+
 
 🚀 Como usar
 
 1. Clone este repositório:
 
-```bash
 
 git clone https://github.com/seu-usuario/api-produtos-php.git
 
-```
+
 
 2. Coloque o arquivo index.php em um servidor com suporte a PHP, como:
 
@@ -94,7 +93,7 @@ Ou utilize o servidor embutido do PHP
 
 curl http://localhost/api-produtos/index.php
 
-```
+
 
 🛠 Requisitos
 
@@ -109,7 +108,6 @@ curl http://localhost/api-produtos/index.php
             php -S localhost:8000
         ```
     E acesse no navegador:
-```bash        
+
     http://localhost:8000/index.php
 
-```
