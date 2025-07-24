@@ -50,13 +50,12 @@ GET /api/produtos?search=camiseta
 🚫 Requisições inválidas
 Caso o método HTTP não seja GET, a API retorna a seguinte resposta:
 
-```bash
+
 
 {
   "erro": "Método não permitido"
 }
 
-``` 
 
 Com o código HTTP:
 
