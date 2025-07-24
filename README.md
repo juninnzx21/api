@@ -104,10 +104,10 @@ curl http://localhost/api-produtos/index.php
 💡 Executar localmente com servidor embutido do PHP
 
     Se quiser testar sem Apache/Nginx, execute o comando abaixo dentro da pasta do projeto:
-        ```bash
+      
             php -S localhost:8000
-        ```
+      
     E acesse no navegador:
-```bash
+
     http://localhost:8000/index.php
-  ```
+
