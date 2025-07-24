@@ -45,7 +45,7 @@ GET /api/produtos?search=camiseta
     "categoria": "Roupas"
   }
 ]
-
+```
 
 🚫 Requisições inválidas
 Caso o método HTTP não seja GET, a API retorna a seguinte resposta:
@@ -110,4 +110,4 @@ curl http://localhost/api-produtos/index.php
     E acesse no navegador:
 
     http://localhost:8000/index.php
-
+```
